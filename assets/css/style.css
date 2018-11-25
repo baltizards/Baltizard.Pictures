@@ -573,7 +573,7 @@ h1 span {
 
 .row > .column {
   padding: 0 8px;
-  display: inline-flex;
+  display:inline-block;
   overflow:hidden;
   width:17%;
   margin-left:20px;
